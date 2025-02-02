@@ -4,13 +4,13 @@ body {
 }
 
 .logo-react, .logo-javascript {
-    width: 210px;
-    height: 160px;
+    width: 250px;
+    height: 200px;
 }
 
 .logo-html, .logo-css{
-    width: 210px;
-    height: 190px;
+    width: 250px;
+    height: 230px;
 }
 
 .header{
